@@ -1,26 +1,32 @@
-Ønskeliste Lucky Trade Pokémon Go 
-$ = har mulighet til mirror trade
 
-Shiny Pidgey/Pidgeotto/Pidgeot $
-Shiny Snover/Abomasnow $
-Shiny Swablu/Altaria $
-Shiny Aerodactyl $
-Shiny Latios $
-Shiny Aron/Lairon/Aggron $
+# Ønskeliste Lucky Trade Pokémon Go 
 
-Shiny Inkay/Malamar
-Shiny Dratini/Dragonair/Dragonite
-Shiny Snorunt/Glalie
-Shiny Meditite/Medicham
-Shiny Pinsir
-Shiny Electrike/Manectric
-Shiny Latias
+### $ = har mulighet til mirror trade
 
-Stonjourner
-Comfey
-Mudbray/Mudsdale
+## Shiny megas
 
-Glimmet $
-Honedge $
+- Shiny Pidgey/Pidgeotto/Pidgeot $
+- Shiny Snover/Abomasnow $
+- Shiny Swablu/Altaria $
+- Shiny Aerodactyl $
+- Shiny Latios $
+- Shiny Aron/Lairon/Aggron $
+- Shiny Inkay/Malamar
+- Shiny Dratini/Dragonair/Dragonite
+- Shiny Snorunt/Glalie
+- Shiny Meditite/Medicham
+- Shiny Pinsir
+- Shiny Electrike/Manectric
+- Shiny Latias
 
-Shiny Crabrawler
+## Regionals
+
+- Stonjourner
+- Comfey
+- Mudbray/Mudsdale
+
+## Andre
+
+- Glimmet $
+- Honedge $
+- Shiny Crabrawler
