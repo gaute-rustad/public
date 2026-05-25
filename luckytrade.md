@@ -5,7 +5,6 @@
 
 ## Shiny megas
 
-- Shiny Pidgey/Pidgeotto/Pidgeot $
 - Shiny Snover/Abomasnow $
 - Shiny Swablu/Altaria $
 - Shiny Aerodactyl $
