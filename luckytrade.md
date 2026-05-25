@@ -11,6 +11,7 @@
 - Shiny Aerodactyl $
 - Shiny Latios $
 - Shiny Aron/Lairon/Aggron $
+- Shiny Falinks $
 - Shiny Inkay/Malamar
 - Shiny Dratini/Dragonair/Dragonite
 - Shiny Snorunt/Glalie
